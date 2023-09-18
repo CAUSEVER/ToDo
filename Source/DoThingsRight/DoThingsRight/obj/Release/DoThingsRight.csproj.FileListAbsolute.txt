@@ -1,0 +1,89 @@
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Release\DoThingsRight.csproj.AssemblyReference.cache
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Release\DoThingsRight.csproj.SuggestedBindingRedirects.cache
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Release\controls\Close\CloseButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Release\controls\DataOut\DataOutButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Release\controls\Delete\DeleteButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Release\controls\Exit\ExitButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Release\controls\ShowData\ShowDataButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Release\controls\Shuffle\ShuffleButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Release\App.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Release\DoThingsRight_MarkupCompile.cache
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Release\DoThingsRight_MarkupCompile.lref
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\bin\Release\DoThingsRight.exe.config
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\bin\Release\DoThingsRight.exe
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\bin\Release\DoThingsRight.pdb
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Release\MainWindow.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Release\controls\Close\CloseButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Release\controls\DataOut\DataOutButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Release\controls\Delete\DeleteButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Release\controls\Exit\ExitButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Release\controls\ShowData\ShowDataButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Release\controls\Shuffle\ShuffleButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Release\MainWindow.baml
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Release\DoThingsRight.g.resources
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Release\DoThingsRight.Properties.Resources.resources
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Release\DoThingsRight.csproj.GenerateResource.cache
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Release\DoThingsRight.csproj.CoreCompileInputs.cache
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Release\DoThingsRight.exe
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Release\DoThingsRight.pdb
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\bin\Release\DoThingsRight.exe.config
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\bin\Release\DoThingsRight.exe
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\bin\Release\DoThingsRight.pdb
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Release\DoThingsRight.csproj.AssemblyReference.cache
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Release\DoThingsRight.csproj.SuggestedBindingRedirects.cache
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Release\controls\Close\CloseButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Release\controls\DataOut\DataOutButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Release\controls\Delete\DeleteButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Release\controls\Exit\ExitButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Release\controls\ShowData\ShowDataButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Release\controls\Shuffle\ShuffleButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Release\MainWindow.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Release\App.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Release\DoThingsRight_MarkupCompile.cache
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Release\DoThingsRight_MarkupCompile.lref
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Release\controls\Close\CloseButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Release\controls\DataOut\DataOutButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Release\controls\Delete\DeleteButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Release\controls\Exit\ExitButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Release\controls\ShowData\ShowDataButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Release\controls\Shuffle\ShuffleButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Release\MainWindow.baml
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Release\DoThingsRight.g.resources
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Release\DoThingsRight.Properties.Resources.resources
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Release\DoThingsRight.csproj.GenerateResource.cache
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Release\DoThingsRight.csproj.CoreCompileInputs.cache
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Release\DoThingsRight.exe
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Release\DoThingsRight.pdb
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\bin\Release\DoThingsRight.exe.config
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\bin\Release\DoThingsRight.exe
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\bin\Release\DoThingsRight.pdb
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Release\DoThingsRight.csproj.AssemblyReference.cache
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Release\DoThingsRight.csproj.SuggestedBindingRedirects.cache
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Release\controls\Close\CloseButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Release\controls\DataOut\DataOutButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Release\controls\Delete\DeleteButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Release\controls\Exit\ExitButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Release\controls\ShowData\ShowDataButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Release\controls\Shuffle\ShuffleButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Release\MainWindow.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Release\App.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Release\DoThingsRight_MarkupCompile.cache
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Release\DoThingsRight_MarkupCompile.lref
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Release\controls\Close\CloseButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Release\controls\DataOut\DataOutButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Release\controls\Delete\DeleteButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Release\controls\Exit\ExitButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Release\controls\ShowData\ShowDataButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Release\controls\Shuffle\ShuffleButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Release\MainWindow.baml
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Release\DoThingsRight.g.resources
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Release\DoThingsRight.Properties.Resources.resources
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Release\DoThingsRight.csproj.GenerateResource.cache
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Release\DoThingsRight.csproj.CoreCompileInputs.cache
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Release\DoThingsRight.exe
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Release\DoThingsRight.pdb
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Release\controls\InfoText\InfoTextBox.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Release\controls\InfoText\InfoTextBox.baml

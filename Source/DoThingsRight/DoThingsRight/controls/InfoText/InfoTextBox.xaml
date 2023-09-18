@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="DoThingsRight.controls.InfoText.InfoTextBox"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DoThingsRight.controls.InfoText" 
+             xmlns:form="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"
+             mc:Ignorable="d" 
+             d:DesignHeight="30" d:DesignWidth="150">
+    
+    <!--<UserControl.Resources>
+        <form:OpacityConverter x:Key="OpacityConverter" />
+    </UserControl.Resources>-->
+    <Grid>
+        <Border Margin="2" Background="AliceBlue" CornerRadius="5">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="1" ShadowDepth="1" Color="LightGray"/>
+            </Border.Effect>
+        </Border>
+        <TextBox Text="{Binding Text,RelativeSource={RelativeSource AncestorType=local:InfoTextBox},Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"
+                 Margin="2" VerticalContentAlignment="Center" x:Name="myTextBox"
+                 TextChanged="TextBox_TextChanged" Background="Transparent" Panel.ZIndex="1"
+                 BorderThickness="0" FontSize="13"
+                 />
+        <TextBlock Text="{Binding InfoText,RelativeSource={RelativeSource AncestorType=local:InfoTextBox},Mode=TwoWay}"
+                   Margin="3,2,2,2" FontSize="13" x:Name="myTextBlock" Opacity="0.5"
+                   LineHeight="16" Height="16" FontStyle="Italic"
+                   />
+    </Grid>
+    
+</UserControl>

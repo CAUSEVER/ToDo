@@ -1,0 +1,245 @@
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\bin\Debug\DoThingsRight.exe.config
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\bin\Debug\DoThingsRight.exe
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\bin\Debug\DoThingsRight.pdb
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Debug\DoThingsRight.csproj.AssemblyReference.cache
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Debug\DoThingsRight.csproj.SuggestedBindingRedirects.cache
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Debug\controls\Close\CloseButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Debug\controls\DataOut\DataOutButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Debug\controls\Delete\DeleteButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Debug\controls\Exit\ExitButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Debug\controls\ShowData\ShowDataButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Debug\controls\Shuffle\ShuffleButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Debug\MainWindow.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Debug\App.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Debug\DoThingsRight_MarkupCompile.cache
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Debug\DoThingsRight_MarkupCompile.lref
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Debug\controls\Close\CloseButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Debug\controls\DataOut\DataOutButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Debug\controls\Delete\DeleteButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Debug\controls\Exit\ExitButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Debug\controls\ShowData\ShowDataButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Debug\controls\Shuffle\ShuffleButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Debug\MainWindow.baml
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Debug\DoThingsRight.g.resources
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Debug\DoThingsRight.Properties.Resources.resources
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Debug\DoThingsRight.csproj.GenerateResource.cache
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Debug\DoThingsRight.csproj.CoreCompileInputs.cache
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Debug\DoThingsRight.exe
+D:\Users\1144325768\Desktop\DoThingsRight - 副本\DoThingsRight\obj\Debug\DoThingsRight.pdb
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\bin\Debug\DoThingsRight.exe.config
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\bin\Debug\DoThingsRight.exe
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\bin\Debug\DoThingsRight.pdb
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Debug\DoThingsRight.csproj.AssemblyReference.cache
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Debug\DoThingsRight.csproj.SuggestedBindingRedirects.cache
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Debug\controls\Close\CloseButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Debug\controls\DataOut\DataOutButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Debug\controls\Delete\DeleteButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Debug\controls\Exit\ExitButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Debug\controls\InfoText\InfoTextBox.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Debug\controls\ShowData\ShowDataButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Debug\controls\Shuffle\ShuffleButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Debug\MainWindow.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Debug\App.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Debug\DoThingsRight_MarkupCompile.cache
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Debug\DoThingsRight_MarkupCompile.lref
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Debug\controls\Close\CloseButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Debug\controls\DataOut\DataOutButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Debug\controls\Delete\DeleteButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Debug\controls\Exit\ExitButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Debug\controls\InfoText\InfoTextBox.baml
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Debug\controls\ShowData\ShowDataButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Debug\controls\Shuffle\ShuffleButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Debug\MainWindow.baml
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Debug\DoThingsRight.g.resources
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Debug\DoThingsRight.Properties.Resources.resources
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Debug\DoThingsRight.csproj.GenerateResource.cache
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Debug\DoThingsRight.csproj.CoreCompileInputs.cache
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Debug\DoThingsRight.exe
+D:\Users\1144325768\Desktop\DoThingsRight - 副本 - 副本\DoThingsRight\obj\Debug\DoThingsRight.pdb
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\DoThingsRight.csproj.AssemblyReference.cache
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\DoThingsRight.csproj.SuggestedBindingRedirects.cache
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\Close\CloseButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\DataOut\DataOutButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\Delete\DeleteButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\DesignedCheck\DesignedCheckBox.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\Exit\ExitButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\InfoText\InfoTextBox.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\ShowData\ShowDataButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\Shuffle\ShuffleButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\MainWindow.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\App.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\DoThingsRight_MarkupCompile.cache
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\DoThingsRight_MarkupCompile.lref
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\bin\Debug\DoThingsRight.exe.config
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\bin\Debug\DoThingsRight.exe
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\bin\Debug\DoThingsRight.pdb
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\Close\CloseButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\DataOut\DataOutButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\Delete\DeleteButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\DesignedCheck\DesignedCheckBox.baml
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\Exit\ExitButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\InfoText\InfoTextBox.baml
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\ShowData\ShowDataButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\Shuffle\ShuffleButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\MainWindow.baml
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\DoThingsRight.g.resources
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\DoThingsRight.Properties.Resources.resources
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\DoThingsRight.csproj.GenerateResource.cache
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\DoThingsRight.csproj.CoreCompileInputs.cache
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\DoThingsRight.exe
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\DoThingsRight.pdb
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\ChooseList\ChooseButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\ChooseList\ChooseButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\TipShow\TipShowBlock.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\TipShow\TipShowBlock.baml
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\bin\Debug\DoThingsRight.exe.config
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\bin\Debug\DoThingsRight.exe
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\bin\Debug\DoThingsRight.pdb
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\DoThingsRight.csproj.AssemblyReference.cache
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\DoThingsRight.csproj.SuggestedBindingRedirects.cache
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\ChooseList\ChooseButton.g.cs
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\Close\CloseButton.g.cs
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\DataOut\DataOutButton.g.cs
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\Delete\DeleteButton.g.cs
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\DesignedCheck\DesignedCheckBox.g.cs
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\Exit\ExitButton.g.cs
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\InfoText\InfoTextBox.g.cs
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\ShowData\ShowDataButton.g.cs
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\Shuffle\ShuffleButton.g.cs
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\TipShow\TipShowBlock.g.cs
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\MainWindow.g.cs
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\App.g.cs
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\DoThingsRight_MarkupCompile.cache
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\DoThingsRight_MarkupCompile.lref
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\ChooseList\ChooseButton.baml
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\Close\CloseButton.baml
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\DataOut\DataOutButton.baml
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\Delete\DeleteButton.baml
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\DesignedCheck\DesignedCheckBox.baml
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\Exit\ExitButton.baml
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\InfoText\InfoTextBox.baml
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\ShowData\ShowDataButton.baml
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\Shuffle\ShuffleButton.baml
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\controls\TipShow\TipShowBlock.baml
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\MainWindow.baml
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\DoThingsRight.g.resources
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\DoThingsRight.Properties.Resources.resources
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\DoThingsRight.csproj.GenerateResource.cache
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\DoThingsRight.csproj.CoreCompileInputs.cache
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\DoThingsRight.exe
+E:\C#\DoThingsRight现 - 副本\DoThingsRight\obj\Debug\DoThingsRight.pdb
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\bin\Debug\DoThingsRight.exe.config
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\bin\Debug\DoThingsRight.exe
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\bin\Debug\DoThingsRight.pdb
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\DoThingsRight.csproj.AssemblyReference.cache
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\DoThingsRight.csproj.SuggestedBindingRedirects.cache
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\controls\ChooseList\ChooseButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\controls\Close\CloseButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\controls\DataOut\DataOutButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\controls\Delete\DeleteButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\controls\DesignedCheck\DesignedCheckBox.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\controls\Exit\ExitButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\controls\InfoText\InfoTextBox.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\controls\ShowData\ShowDataButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\controls\Shuffle\ShuffleButton.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\controls\TipShow\TipShowBlock.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\MainWindow.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\App.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\DoThingsRight_MarkupCompile.cache
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\DoThingsRight_MarkupCompile.lref
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\controls\ChooseList\ChooseButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\controls\Close\CloseButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\controls\DataOut\DataOutButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\controls\Delete\DeleteButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\controls\DesignedCheck\DesignedCheckBox.baml
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\controls\Exit\ExitButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\controls\InfoText\InfoTextBox.baml
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\controls\ShowData\ShowDataButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\controls\Shuffle\ShuffleButton.baml
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\controls\TipShow\TipShowBlock.baml
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\MainWindow.baml
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\DoThingsRight.g.resources
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\DoThingsRight.Properties.Resources.resources
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\DoThingsRight.csproj.GenerateResource.cache
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\DoThingsRight.csproj.CoreCompileInputs.cache
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\DoThingsRight.exe
+D:\Users\1144325768\Desktop\DoThingsRight\DoThingsRight\obj\Debug\DoThingsRight.pdb
+E:\C#\DoThingsRight\DoThingsRight\bin\Debug\DoThingsRight.exe.config
+E:\C#\DoThingsRight\DoThingsRight\bin\Debug\DoThingsRight.exe
+E:\C#\DoThingsRight\DoThingsRight\bin\Debug\DoThingsRight.pdb
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\DoThingsRight.csproj.AssemblyReference.cache
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\DoThingsRight.csproj.SuggestedBindingRedirects.cache
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\controls\ChooseList\ChooseButton.g.cs
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\controls\Close\CloseButton.g.cs
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\controls\DataOut\DataOutButton.g.cs
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\controls\Delete\DeleteButton.g.cs
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\controls\DesignedCheck\DesignedCheckBox.g.cs
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\controls\Exit\ExitButton.g.cs
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\controls\InfoText\InfoTextBox.g.cs
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\controls\ShowData\ShowDataButton.g.cs
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\controls\Shuffle\ShuffleButton.g.cs
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\controls\TipShow\TipShowBlock.g.cs
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\MainWindow.g.cs
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\App.g.cs
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\DoThingsRight_MarkupCompile.cache
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\DoThingsRight_MarkupCompile.lref
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\controls\ChooseList\ChooseButton.baml
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\controls\Close\CloseButton.baml
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\controls\DataOut\DataOutButton.baml
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\controls\Delete\DeleteButton.baml
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\controls\DesignedCheck\DesignedCheckBox.baml
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\controls\Exit\ExitButton.baml
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\controls\InfoText\InfoTextBox.baml
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\controls\ShowData\ShowDataButton.baml
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\controls\Shuffle\ShuffleButton.baml
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\controls\TipShow\TipShowBlock.baml
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\MainWindow.baml
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\DoThingsRight.g.resources
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\DoThingsRight.Properties.Resources.resources
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\DoThingsRight.csproj.GenerateResource.cache
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\DoThingsRight.csproj.CoreCompileInputs.cache
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\DoThingsRight.exe
+E:\C#\DoThingsRight\DoThingsRight\obj\Debug\DoThingsRight.pdb
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\bin\Debug\DoThingsRight.exe.config
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\bin\Debug\DoThingsRight.exe
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\bin\Debug\DoThingsRight.pdb
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\DoThingsRight.csproj.AssemblyReference.cache
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\DoThingsRight.csproj.SuggestedBindingRedirects.cache
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\controls\ChooseList\ChooseButton.g.cs
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\controls\Close\CloseButton.g.cs
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\controls\DataOut\DataOutButton.g.cs
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\controls\Delete\DeleteButton.g.cs
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\controls\DesignedCheck\DesignedCheckBox.g.cs
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\controls\Exit\ExitButton.g.cs
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\controls\InfoText\InfoTextBox.g.cs
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\controls\ShowData\ShowDataButton.g.cs
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\controls\Shuffle\ShuffleButton.g.cs
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\controls\TipShow\TipShowBlock.g.cs
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\MainWindow.g.cs
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\App.g.cs
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\DoThingsRight_MarkupCompile.cache
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\DoThingsRight_MarkupCompile.lref
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\controls\ChooseList\ChooseButton.baml
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\controls\Close\CloseButton.baml
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\controls\DataOut\DataOutButton.baml
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\controls\Delete\DeleteButton.baml
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\controls\DesignedCheck\DesignedCheckBox.baml
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\controls\Exit\ExitButton.baml
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\controls\InfoText\InfoTextBox.baml
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\controls\ShowData\ShowDataButton.baml
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\controls\Shuffle\ShuffleButton.baml
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\controls\TipShow\TipShowBlock.baml
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\MainWindow.baml
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\DoThingsRight.g.resources
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\DoThingsRight.Properties.Resources.resources
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\DoThingsRight.csproj.GenerateResource.cache
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\DoThingsRight.csproj.CoreCompileInputs.cache
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\DoThingsRight.exe
+E:\C#\ToDoList\终\DoThingsRight\DoThingsRight\obj\Debug\DoThingsRight.pdb
